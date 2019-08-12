@@ -5,7 +5,8 @@ It is a custom Android Operating System based on Lineage OS and is in it's alpha
 Reason for delay: I have a job. 
 
 Presentation can explain better about this project.
-Repositories: 
+
+Repositories available (not updated online, I work with private repositories) : 
 
 https://gitlab.com/romilparh/frameworks_base
 
