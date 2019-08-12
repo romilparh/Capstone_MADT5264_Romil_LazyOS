@@ -1,5 +1,10 @@
-Romil: C0727306
+#LazyOS
 
+It is a custom Android Operating System based on Lineage OS and is in it's alpha stage. The source code is not available yet, neither are the builds. It is still in development phase and will be released soon. 
+
+Reason for delay: I have a job. 
+
+Presentation can explain better about this project.
 Repositories: 
 
 https://gitlab.com/romilparh/frameworks_base
